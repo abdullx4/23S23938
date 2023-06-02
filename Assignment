@@ -2,10 +2,10 @@ class XZ {
  String email name;
  int number;
  
- void assign(String a,String b,int c) {
- name =a;
+ void assign(String c,String b,int d) {
+ name =c;
  email=b;
- number=c;
+ number=d;
  }
  
  void display() {
